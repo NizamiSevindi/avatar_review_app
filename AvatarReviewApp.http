@@ -1,0 +1,6 @@
+@AvatarReviewApp_HostAddress = http://localhost:5101
+
+GET {{AvatarReviewApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

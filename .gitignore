@@ -1,0 +1,43 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# .NET secrets
+secrets.json
+
+# Auto-generated files
+*.Generated.cs
+
+# Paketler
+packages/
+*.nupkg
+
+# Loglar
+*.log
+
+# Publish çıktısı
+publish/
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+appsettings.*.json
+appsettings.json
+.vs
